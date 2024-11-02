@@ -1,3 +1,3 @@
-##Python password generator
-DIY cudtom random pssword generator. 
+## Python password generator
+DIY custom random password generator. 
 Details on https://ishaant.com/PyPassGenerator/PyPassGenerator.html
